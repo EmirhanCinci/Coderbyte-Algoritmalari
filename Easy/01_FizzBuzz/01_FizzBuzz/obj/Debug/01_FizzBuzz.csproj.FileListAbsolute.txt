@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\01_FizzBuzz\01_FizzBuzz\bin\Debug\01_FizzBuzz.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\01_FizzBuzz\01_FizzBuzz\bin\Debug\01_FizzBuzz.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\01_FizzBuzz\01_FizzBuzz\bin\Debug\01_FizzBuzz.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\01_FizzBuzz\01_FizzBuzz\obj\Debug\01_FizzBuzz.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\01_FizzBuzz\01_FizzBuzz\obj\Debug\01_FizzBuzz.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\01_FizzBuzz\01_FizzBuzz\obj\Debug\01_FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\01_FizzBuzz\01_FizzBuzz\obj\Debug\01_FizzBuzz.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\01_FizzBuzz\01_FizzBuzz\obj\Debug\01_FizzBuzz.pdb
