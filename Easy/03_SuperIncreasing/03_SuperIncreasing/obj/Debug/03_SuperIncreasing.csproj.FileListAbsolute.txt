@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\03_SuperIncreasing\03_SuperIncreasing\bin\Debug\03_SuperIncreasing.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\03_SuperIncreasing\03_SuperIncreasing\bin\Debug\03_SuperIncreasing.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\03_SuperIncreasing\03_SuperIncreasing\bin\Debug\03_SuperIncreasing.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\03_SuperIncreasing\03_SuperIncreasing\obj\Debug\03_SuperIncreasing.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\03_SuperIncreasing\03_SuperIncreasing\obj\Debug\03_SuperIncreasing.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\03_SuperIncreasing\03_SuperIncreasing\obj\Debug\03_SuperIncreasing.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\03_SuperIncreasing\03_SuperIncreasing\obj\Debug\03_SuperIncreasing.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\03_SuperIncreasing\03_SuperIncreasing\obj\Debug\03_SuperIncreasing.pdb
