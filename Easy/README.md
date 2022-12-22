@@ -3,7 +3,7 @@
 * Her klasörün içerisinde detaylı anlatımlar mevcuttur.
 
 01. FizzBuzz
-02-) BitwiseTwo
+2. BitwiseTwo
 03-) SuperIncreasing
 04-) AlphabetSearching
 05-) AlphabetSoup
