@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\02_BitwiseTwo\02_BitwiseTwo\bin\Debug\02_BitwiseTwo.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\02_BitwiseTwo\02_BitwiseTwo\bin\Debug\02_BitwiseTwo.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\02_BitwiseTwo\02_BitwiseTwo\bin\Debug\02_BitwiseTwo.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\02_BitwiseTwo\02_BitwiseTwo\obj\Debug\02_BitwiseTwo.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\02_BitwiseTwo\02_BitwiseTwo\obj\Debug\02_BitwiseTwo.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\02_BitwiseTwo\02_BitwiseTwo\obj\Debug\02_BitwiseTwo.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\02_BitwiseTwo\02_BitwiseTwo\obj\Debug\02_BitwiseTwo.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\02_BitwiseTwo\02_BitwiseTwo\obj\Debug\02_BitwiseTwo.pdb
