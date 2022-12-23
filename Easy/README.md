@@ -41,7 +41,7 @@
 37. ThreeNumbers
 38. ThirdGreatest
 39. NumberAddition
-40.
+40. WordCount
 41.
 42.
 43.
