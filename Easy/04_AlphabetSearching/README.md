@@ -19,7 +19,7 @@ Console.WriteLine(AlphabetSearching("abc123456kmo"));
 
 * Daha sonrasında alfabenin tüm harflerini tek tek dolaşarak karakter kontrolleri yapılır. Eğer aynı harfı kullanıcının girdiği string değişkeninde var ise sayac değişkeni bir arttırılır ve sıradaki alfabe harfine geçilir çünkü eğer geçilmezse ikinci veya fazla aynı karakter bulabilir. Bunun önüne geçilebilmek için break; komutu kullanıldı.
 
-* Son olarak İngiliz alfabesinin uzunluğu 26 harf olduğu için sayac ile kontrol edildi. Eğer aynı ise true değilse, false değeri döner.
+* Son olarak İngiliz alfabesinin uzunluğu 26 harf olduğu için sayac ile kontrol edildi. Eğer aynı ise true, değilse false değeri döner.
 
 ~~~ C#
 public static bool AlphabetSearching(string veri)
@@ -45,7 +45,7 @@ public static bool AlphabetSearching(string veri)
 }
 ~~~
 
-* Başka bir şekilde yazmak istersek eğer Regex kütüphanesi ve hashset veri yapısı ile başka bir metot yazabiliriz. Şimdi gelelim o metodu inceleyelim.
+* Başka bir şekilde yazmak istersek eğer Regex kütüphanesi ve HashSet veri yapısı ile başka bir metot yazabiliriz. Şimdi gelelim o metodu inceleyelim.
 
 * İlk olarak dizideki harf haricindeki bütün karakterler atılır. Daha sonrasında girilen string ifadesindeki bütün karakterler bir HashSet veri yapısı içerisinde diziye dönüştürülür. Buradaki HashSet kullanılma amacı aynı olan karakterleri bir kez yazdırmak içindir. O nedenle ingiliz alfabesinin harf sayısı kadar dizide eleman olması beklenir. Yani hashSet'in eleman sayısı 26 ise true; değilse false değeri döner.
 
