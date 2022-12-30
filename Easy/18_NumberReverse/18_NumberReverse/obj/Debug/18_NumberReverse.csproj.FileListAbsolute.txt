@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\18_NumberReverse\18_NumberReverse\bin\Debug\18_NumberReverse.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\18_NumberReverse\18_NumberReverse\bin\Debug\18_NumberReverse.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\18_NumberReverse\18_NumberReverse\bin\Debug\18_NumberReverse.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\18_NumberReverse\18_NumberReverse\obj\Debug\18_NumberReverse.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\18_NumberReverse\18_NumberReverse\obj\Debug\18_NumberReverse.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\18_NumberReverse\18_NumberReverse\obj\Debug\18_NumberReverse.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\18_NumberReverse\18_NumberReverse\obj\Debug\18_NumberReverse.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\18_NumberReverse\18_NumberReverse\obj\Debug\18_NumberReverse.pdb

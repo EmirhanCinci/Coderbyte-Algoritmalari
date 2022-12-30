@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\20_DashInsert\20_DashInsert\bin\Debug\20_DashInsert.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\20_DashInsert\20_DashInsert\bin\Debug\20_DashInsert.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\20_DashInsert\20_DashInsert\bin\Debug\20_DashInsert.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\20_DashInsert\20_DashInsert\obj\Debug\20_DashInsert.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\20_DashInsert\20_DashInsert\obj\Debug\20_DashInsert.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\20_DashInsert\20_DashInsert\obj\Debug\20_DashInsert.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\20_DashInsert\20_DashInsert\obj\Debug\20_DashInsert.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\20_DashInsert\20_DashInsert\obj\Debug\20_DashInsert.pdb

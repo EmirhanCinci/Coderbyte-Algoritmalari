@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\19_LetterCapitalize\19_LetterCapitalize\bin\Debug\19_LetterCapitalize.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\19_LetterCapitalize\19_LetterCapitalize\bin\Debug\19_LetterCapitalize.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\19_LetterCapitalize\19_LetterCapitalize\bin\Debug\19_LetterCapitalize.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\19_LetterCapitalize\19_LetterCapitalize\obj\Debug\19_LetterCapitalize.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\19_LetterCapitalize\19_LetterCapitalize\obj\Debug\19_LetterCapitalize.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\19_LetterCapitalize\19_LetterCapitalize\obj\Debug\19_LetterCapitalize.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\19_LetterCapitalize\19_LetterCapitalize\obj\Debug\19_LetterCapitalize.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\19_LetterCapitalize\19_LetterCapitalize\obj\Debug\19_LetterCapitalize.pdb

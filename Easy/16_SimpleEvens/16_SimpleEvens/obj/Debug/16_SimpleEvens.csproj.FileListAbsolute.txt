@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\16_SimpleEvens\16_SimpleEvens\bin\Debug\16_SimpleEvens.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\16_SimpleEvens\16_SimpleEvens\bin\Debug\16_SimpleEvens.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\16_SimpleEvens\16_SimpleEvens\bin\Debug\16_SimpleEvens.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\16_SimpleEvens\16_SimpleEvens\obj\Debug\16_SimpleEvens.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\16_SimpleEvens\16_SimpleEvens\obj\Debug\16_SimpleEvens.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\16_SimpleEvens\16_SimpleEvens\obj\Debug\16_SimpleEvens.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\16_SimpleEvens\16_SimpleEvens\obj\Debug\16_SimpleEvens.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\16_SimpleEvens\16_SimpleEvens\obj\Debug\16_SimpleEvens.pdb
