@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\15_Palindrome\15_Palindrome\bin\Debug\15_Palindrome.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\15_Palindrome\15_Palindrome\bin\Debug\15_Palindrome.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\15_Palindrome\15_Palindrome\bin\Debug\15_Palindrome.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\15_Palindrome\15_Palindrome\obj\Debug\15_Palindrome.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\15_Palindrome\15_Palindrome\obj\Debug\15_Palindrome.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\15_Palindrome\15_Palindrome\obj\Debug\15_Palindrome.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\15_Palindrome\15_Palindrome\obj\Debug\15_Palindrome.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\15_Palindrome\15_Palindrome\obj\Debug\15_Palindrome.pdb

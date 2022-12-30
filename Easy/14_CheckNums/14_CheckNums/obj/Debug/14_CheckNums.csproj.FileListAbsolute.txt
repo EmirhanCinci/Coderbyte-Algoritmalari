@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\14_CheckNums\14_CheckNums\bin\Debug\14_CheckNums.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\14_CheckNums\14_CheckNums\bin\Debug\14_CheckNums.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\14_CheckNums\14_CheckNums\bin\Debug\14_CheckNums.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\14_CheckNums\14_CheckNums\obj\Debug\14_CheckNums.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\14_CheckNums\14_CheckNums\obj\Debug\14_CheckNums.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\14_CheckNums\14_CheckNums\obj\Debug\14_CheckNums.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\14_CheckNums\14_CheckNums\obj\Debug\14_CheckNums.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\14_CheckNums\14_CheckNums\obj\Debug\14_CheckNums.pdb

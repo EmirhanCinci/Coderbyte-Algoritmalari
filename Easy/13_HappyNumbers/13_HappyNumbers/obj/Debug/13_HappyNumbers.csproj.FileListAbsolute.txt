@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\13_HappyNumbers\13_HappyNumbers\bin\Debug\13_HappyNumbers.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\13_HappyNumbers\13_HappyNumbers\bin\Debug\13_HappyNumbers.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\13_HappyNumbers\13_HappyNumbers\bin\Debug\13_HappyNumbers.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\13_HappyNumbers\13_HappyNumbers\obj\Debug\13_HappyNumbers.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\13_HappyNumbers\13_HappyNumbers\obj\Debug\13_HappyNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\13_HappyNumbers\13_HappyNumbers\obj\Debug\13_HappyNumbers.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\13_HappyNumbers\13_HappyNumbers\obj\Debug\13_HappyNumbers.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\13_HappyNumbers\13_HappyNumbers\obj\Debug\13_HappyNumbers.pdb

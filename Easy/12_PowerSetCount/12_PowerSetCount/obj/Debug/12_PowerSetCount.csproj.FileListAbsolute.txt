@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\12_PowerSetCount\12_PowerSetCount\bin\Debug\12_PowerSetCount.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\12_PowerSetCount\12_PowerSetCount\bin\Debug\12_PowerSetCount.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\12_PowerSetCount\12_PowerSetCount\bin\Debug\12_PowerSetCount.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\12_PowerSetCount\12_PowerSetCount\obj\Debug\12_PowerSetCount.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\12_PowerSetCount\12_PowerSetCount\obj\Debug\12_PowerSetCount.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\12_PowerSetCount\12_PowerSetCount\obj\Debug\12_PowerSetCount.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\12_PowerSetCount\12_PowerSetCount\obj\Debug\12_PowerSetCount.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\12_PowerSetCount\12_PowerSetCount\obj\Debug\12_PowerSetCount.pdb
