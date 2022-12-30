@@ -1,6 +1,6 @@
 # 07_CamelCase Algoritma Sorusu
 
-* 
+* Metotun, iletilen veri parametresini almasını ve her kelimenin ilk harfinin (ilk harf hariç) büyük yazıldığı biçimde döndürmesini sağlayın. Dize yalnızca harfleri ve her bir sözcüğü ayıran sınırlayıcı noktalama karakterlerinin bazı kombinasyonlarını içerecektir.
 
 ## Örnek Girdi ve Çıktılar
 
