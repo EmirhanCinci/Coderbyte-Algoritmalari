@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\10_TwoSum\10_TwoSum\bin\Debug\10_TwoSum.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\10_TwoSum\10_TwoSum\bin\Debug\10_TwoSum.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\10_TwoSum\10_TwoSum\bin\Debug\10_TwoSum.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\10_TwoSum\10_TwoSum\obj\Debug\10_TwoSum.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\10_TwoSum\10_TwoSum\obj\Debug\10_TwoSum.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\10_TwoSum\10_TwoSum\obj\Debug\10_TwoSum.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\10_TwoSum\10_TwoSum\obj\Debug\10_TwoSum.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\10_TwoSum\10_TwoSum\obj\Debug\10_TwoSum.pdb

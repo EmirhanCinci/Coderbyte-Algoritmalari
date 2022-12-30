@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\09_ConsanantCount\09_ConsanantCount\bin\Debug\09_ConsanantCount.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\09_ConsanantCount\09_ConsanantCount\bin\Debug\09_ConsanantCount.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\09_ConsanantCount\09_ConsanantCount\bin\Debug\09_ConsanantCount.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\09_ConsanantCount\09_ConsanantCount\obj\Debug\09_ConsanantCount.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\09_ConsanantCount\09_ConsanantCount\obj\Debug\09_ConsanantCount.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\09_ConsanantCount\09_ConsanantCount\obj\Debug\09_ConsanantCount.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\09_ConsanantCount\09_ConsanantCount\obj\Debug\09_ConsanantCount.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\09_ConsanantCount\09_ConsanantCount\obj\Debug\09_ConsanantCount.pdb

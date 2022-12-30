@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\08_FirstReverse\08_FirstReverse\bin\Debug\08_FirstReverse.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\08_FirstReverse\08_FirstReverse\bin\Debug\08_FirstReverse.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\08_FirstReverse\08_FirstReverse\bin\Debug\08_FirstReverse.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\08_FirstReverse\08_FirstReverse\obj\Debug\08_FirstReverse.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\08_FirstReverse\08_FirstReverse\obj\Debug\08_FirstReverse.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\08_FirstReverse\08_FirstReverse\obj\Debug\08_FirstReverse.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\08_FirstReverse\08_FirstReverse\obj\Debug\08_FirstReverse.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\08_FirstReverse\08_FirstReverse\obj\Debug\08_FirstReverse.pdb
