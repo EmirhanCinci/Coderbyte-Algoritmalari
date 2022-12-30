@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\05_AlphabetSoup\05_AlphabetSoup\bin\Debug\05_AlphabetSoup.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\05_AlphabetSoup\05_AlphabetSoup\bin\Debug\05_AlphabetSoup.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\05_AlphabetSoup\05_AlphabetSoup\bin\Debug\05_AlphabetSoup.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\05_AlphabetSoup\05_AlphabetSoup\obj\Debug\05_AlphabetSoup.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\05_AlphabetSoup\05_AlphabetSoup\obj\Debug\05_AlphabetSoup.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\05_AlphabetSoup\05_AlphabetSoup\obj\Debug\05_AlphabetSoup.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\05_AlphabetSoup\05_AlphabetSoup\obj\Debug\05_AlphabetSoup.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\05_AlphabetSoup\05_AlphabetSoup\obj\Debug\05_AlphabetSoup.pdb

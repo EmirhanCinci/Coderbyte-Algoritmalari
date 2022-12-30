@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\04_AlphabetSearching\04_AlphabetSearching\bin\Debug\04_AlphabetSearching.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\04_AlphabetSearching\04_AlphabetSearching\bin\Debug\04_AlphabetSearching.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\04_AlphabetSearching\04_AlphabetSearching\bin\Debug\04_AlphabetSearching.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\04_AlphabetSearching\04_AlphabetSearching\obj\Debug\04_AlphabetSearching.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\04_AlphabetSearching\04_AlphabetSearching\obj\Debug\04_AlphabetSearching.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\04_AlphabetSearching\04_AlphabetSearching\obj\Debug\04_AlphabetSearching.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\04_AlphabetSearching\04_AlphabetSearching\obj\Debug\04_AlphabetSearching.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\04_AlphabetSearching\04_AlphabetSearching\obj\Debug\04_AlphabetSearching.pdb

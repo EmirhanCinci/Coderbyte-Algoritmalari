@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\06_SnakeCase\06_SnakeCase\bin\Debug\06_SnakeCase.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\06_SnakeCase\06_SnakeCase\bin\Debug\06_SnakeCase.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\06_SnakeCase\06_SnakeCase\bin\Debug\06_SnakeCase.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\06_SnakeCase\06_SnakeCase\obj\Debug\06_SnakeCase.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\06_SnakeCase\06_SnakeCase\obj\Debug\06_SnakeCase.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\06_SnakeCase\06_SnakeCase\obj\Debug\06_SnakeCase.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\06_SnakeCase\06_SnakeCase\obj\Debug\06_SnakeCase.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\06_SnakeCase\06_SnakeCase\obj\Debug\06_SnakeCase.pdb
