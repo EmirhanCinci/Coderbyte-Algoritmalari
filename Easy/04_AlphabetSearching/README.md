@@ -1,6 +1,6 @@
 # 04_AlphabetSearching Algoritması
 
-* Metotun, iletilen str parametresini almasını ve dizide İngiliz alfabesinin her bir harfi varsa diziyi true döndürmesini sağlayın, aksi takdirde diziyi false döndürün.
+* Metotun, iletilen veri parametresini almasını ve dizide İngiliz alfabesinin her bir harfi varsa diziyi true döndürmesini sağlayın, aksi takdirde diziyi false döndürün.
 
 ## Örnek Girdi ve Çıktılar
 
