@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\28_ExOh\28_ExOh\bin\Debug\28_ExOh.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\28_ExOh\28_ExOh\bin\Debug\28_ExOh.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\28_ExOh\28_ExOh\bin\Debug\28_ExOh.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\28_ExOh\28_ExOh\obj\Debug\28_ExOh.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\28_ExOh\28_ExOh\obj\Debug\28_ExOh.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\28_ExOh\28_ExOh\obj\Debug\28_ExOh.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\28_ExOh\28_ExOh\obj\Debug\28_ExOh.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\28_ExOh\28_ExOh\obj\Debug\28_ExOh.pdb

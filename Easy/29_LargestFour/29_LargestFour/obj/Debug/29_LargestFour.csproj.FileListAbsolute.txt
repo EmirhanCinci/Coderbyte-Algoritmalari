@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\29_LargestFour\29_LargestFour\bin\Debug\29_LargestFour.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\29_LargestFour\29_LargestFour\bin\Debug\29_LargestFour.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\29_LargestFour\29_LargestFour\bin\Debug\29_LargestFour.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\29_LargestFour\29_LargestFour\obj\Debug\29_LargestFour.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\29_LargestFour\29_LargestFour\obj\Debug\29_LargestFour.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\29_LargestFour\29_LargestFour\obj\Debug\29_LargestFour.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\29_LargestFour\29_LargestFour\obj\Debug\29_LargestFour.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\29_LargestFour\29_LargestFour\obj\Debug\29_LargestFour.pdb

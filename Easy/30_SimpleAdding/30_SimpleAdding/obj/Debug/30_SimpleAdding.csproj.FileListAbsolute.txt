@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\30_SimpleAdding\30_SimpleAdding\bin\Debug\30_SimpleAdding.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\30_SimpleAdding\30_SimpleAdding\bin\Debug\30_SimpleAdding.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\30_SimpleAdding\30_SimpleAdding\bin\Debug\30_SimpleAdding.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\30_SimpleAdding\30_SimpleAdding\obj\Debug\30_SimpleAdding.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\30_SimpleAdding\30_SimpleAdding\obj\Debug\30_SimpleAdding.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\30_SimpleAdding\30_SimpleAdding\obj\Debug\30_SimpleAdding.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\30_SimpleAdding\30_SimpleAdding\obj\Debug\30_SimpleAdding.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\30_SimpleAdding\30_SimpleAdding\obj\Debug\30_SimpleAdding.pdb

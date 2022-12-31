@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\27_LongestWord\27_LongestWord\bin\Debug\27_LongestWord.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\27_LongestWord\27_LongestWord\bin\Debug\27_LongestWord.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\27_LongestWord\27_LongestWord\bin\Debug\27_LongestWord.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\27_LongestWord\27_LongestWord\obj\Debug\27_LongestWord.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\27_LongestWord\27_LongestWord\obj\Debug\27_LongestWord.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\27_LongestWord\27_LongestWord\obj\Debug\27_LongestWord.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\27_LongestWord\27_LongestWord\obj\Debug\27_LongestWord.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\27_LongestWord\27_LongestWord\obj\Debug\27_LongestWord.pdb
