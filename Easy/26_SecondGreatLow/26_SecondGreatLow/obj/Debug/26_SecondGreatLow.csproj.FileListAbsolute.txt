@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\26_SecondGreatLow\26_SecondGreatLow\bin\Debug\26_SecondGreatLow.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\26_SecondGreatLow\26_SecondGreatLow\bin\Debug\26_SecondGreatLow.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\26_SecondGreatLow\26_SecondGreatLow\bin\Debug\26_SecondGreatLow.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\26_SecondGreatLow\26_SecondGreatLow\obj\Debug\26_SecondGreatLow.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\26_SecondGreatLow\26_SecondGreatLow\obj\Debug\26_SecondGreatLow.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\26_SecondGreatLow\26_SecondGreatLow\obj\Debug\26_SecondGreatLow.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\26_SecondGreatLow\26_SecondGreatLow\obj\Debug\26_SecondGreatLow.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\26_SecondGreatLow\26_SecondGreatLow\obj\Debug\26_SecondGreatLow.pdb

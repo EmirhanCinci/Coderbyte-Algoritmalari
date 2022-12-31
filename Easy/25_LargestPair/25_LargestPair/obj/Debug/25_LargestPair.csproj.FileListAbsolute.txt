@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\25_LargestPair\25_LargestPair\bin\Debug\25_LargestPair.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\25_LargestPair\25_LargestPair\bin\Debug\25_LargestPair.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\25_LargestPair\25_LargestPair\bin\Debug\25_LargestPair.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\25_LargestPair\25_LargestPair\obj\Debug\25_LargestPair.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\25_LargestPair\25_LargestPair\obj\Debug\25_LargestPair.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\25_LargestPair\25_LargestPair\obj\Debug\25_LargestPair.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\25_LargestPair\25_LargestPair\obj\Debug\25_LargestPair.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\25_LargestPair\25_LargestPair\obj\Debug\25_LargestPair.pdb
