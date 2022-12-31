@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\37_ThreeNumbers\37_ThreeNumbers\bin\Debug\37_ThreeNumbers.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\37_ThreeNumbers\37_ThreeNumbers\bin\Debug\37_ThreeNumbers.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\37_ThreeNumbers\37_ThreeNumbers\bin\Debug\37_ThreeNumbers.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\37_ThreeNumbers\37_ThreeNumbers\obj\Debug\37_ThreeNumbers.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\37_ThreeNumbers\37_ThreeNumbers\obj\Debug\37_ThreeNumbers.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\37_ThreeNumbers\37_ThreeNumbers\obj\Debug\37_ThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\37_ThreeNumbers\37_ThreeNumbers\obj\Debug\37_ThreeNumbers.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\37_ThreeNumbers\37_ThreeNumbers\obj\Debug\37_ThreeNumbers.pdb

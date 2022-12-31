@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\38_ThirdGreatest\38_ThirdGreatest\bin\Debug\38_ThirdGreatest.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\38_ThirdGreatest\38_ThirdGreatest\bin\Debug\38_ThirdGreatest.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\38_ThirdGreatest\38_ThirdGreatest\bin\Debug\38_ThirdGreatest.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\38_ThirdGreatest\38_ThirdGreatest\obj\Debug\38_ThirdGreatest.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\38_ThirdGreatest\38_ThirdGreatest\obj\Debug\38_ThirdGreatest.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\38_ThirdGreatest\38_ThirdGreatest\obj\Debug\38_ThirdGreatest.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\38_ThirdGreatest\38_ThirdGreatest\obj\Debug\38_ThirdGreatest.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\38_ThirdGreatest\38_ThirdGreatest\obj\Debug\38_ThirdGreatest.pdb

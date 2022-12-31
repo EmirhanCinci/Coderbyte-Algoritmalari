@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\40_WordCount\40_WordCount\bin\Debug\40_WordCount.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\40_WordCount\40_WordCount\bin\Debug\40_WordCount.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\40_WordCount\40_WordCount\bin\Debug\40_WordCount.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\40_WordCount\40_WordCount\obj\Debug\40_WordCount.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\40_WordCount\40_WordCount\obj\Debug\40_WordCount.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\40_WordCount\40_WordCount\obj\Debug\40_WordCount.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\40_WordCount\40_WordCount\obj\Debug\40_WordCount.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\40_WordCount\40_WordCount\obj\Debug\40_WordCount.pdb

@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\39_NumberAddition\39_NumberAddition\bin\Debug\39_NumberAddition.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\39_NumberAddition\39_NumberAddition\bin\Debug\39_NumberAddition.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\39_NumberAddition\39_NumberAddition\bin\Debug\39_NumberAddition.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\39_NumberAddition\39_NumberAddition\obj\Debug\39_NumberAddition.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\39_NumberAddition\39_NumberAddition\obj\Debug\39_NumberAddition.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\39_NumberAddition\39_NumberAddition\obj\Debug\39_NumberAddition.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\39_NumberAddition\39_NumberAddition\obj\Debug\39_NumberAddition.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\39_NumberAddition\39_NumberAddition\obj\Debug\39_NumberAddition.pdb
