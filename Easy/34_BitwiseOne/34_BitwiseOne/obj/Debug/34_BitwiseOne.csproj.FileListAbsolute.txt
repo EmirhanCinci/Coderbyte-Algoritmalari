@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\34_BitwiseOne\34_BitwiseOne\bin\Debug\34_BitwiseOne.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\34_BitwiseOne\34_BitwiseOne\bin\Debug\34_BitwiseOne.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\34_BitwiseOne\34_BitwiseOne\bin\Debug\34_BitwiseOne.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\34_BitwiseOne\34_BitwiseOne\obj\Debug\34_BitwiseOne.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\34_BitwiseOne\34_BitwiseOne\obj\Debug\34_BitwiseOne.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\34_BitwiseOne\34_BitwiseOne\obj\Debug\34_BitwiseOne.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\34_BitwiseOne\34_BitwiseOne\obj\Debug\34_BitwiseOne.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\34_BitwiseOne\34_BitwiseOne\obj\Debug\34_BitwiseOne.pdb

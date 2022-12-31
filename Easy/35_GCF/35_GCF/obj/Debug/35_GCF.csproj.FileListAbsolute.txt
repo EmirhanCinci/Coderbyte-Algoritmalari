@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\35_GCF\35_GCF\bin\Debug\35_GCF.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\35_GCF\35_GCF\bin\Debug\35_GCF.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\35_GCF\35_GCF\bin\Debug\35_GCF.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\35_GCF\35_GCF\obj\Debug\35_GCF.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\35_GCF\35_GCF\obj\Debug\35_GCF.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\35_GCF\35_GCF\obj\Debug\35_GCF.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\35_GCF\35_GCF\obj\Debug\35_GCF.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\35_GCF\35_GCF\obj\Debug\35_GCF.pdb
