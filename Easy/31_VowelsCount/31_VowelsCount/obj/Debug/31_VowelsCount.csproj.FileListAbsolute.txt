@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\31_VowelsCount\31_VowelsCount\bin\Debug\31_VowelsCount.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\31_VowelsCount\31_VowelsCount\bin\Debug\31_VowelsCount.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\31_VowelsCount\31_VowelsCount\bin\Debug\31_VowelsCount.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\31_VowelsCount\31_VowelsCount\obj\Debug\31_VowelsCount.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\31_VowelsCount\31_VowelsCount\obj\Debug\31_VowelsCount.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\31_VowelsCount\31_VowelsCount\obj\Debug\31_VowelsCount.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\31_VowelsCount\31_VowelsCount\obj\Debug\31_VowelsCount.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\31_VowelsCount\31_VowelsCount\obj\Debug\31_VowelsCount.pdb

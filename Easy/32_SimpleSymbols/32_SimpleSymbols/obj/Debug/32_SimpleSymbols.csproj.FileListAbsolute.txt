@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\32_SimpleSymbols\32_SimpleSymbols\bin\Debug\32_SimpleSymbols.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\32_SimpleSymbols\32_SimpleSymbols\bin\Debug\32_SimpleSymbols.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\32_SimpleSymbols\32_SimpleSymbols\bin\Debug\32_SimpleSymbols.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\32_SimpleSymbols\32_SimpleSymbols\obj\Debug\32_SimpleSymbols.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\32_SimpleSymbols\32_SimpleSymbols\obj\Debug\32_SimpleSymbols.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\32_SimpleSymbols\32_SimpleSymbols\obj\Debug\32_SimpleSymbols.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\32_SimpleSymbols\32_SimpleSymbols\obj\Debug\32_SimpleSymbols.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Easy\32_SimpleSymbols\32_SimpleSymbols\obj\Debug\32_SimpleSymbols.pdb
