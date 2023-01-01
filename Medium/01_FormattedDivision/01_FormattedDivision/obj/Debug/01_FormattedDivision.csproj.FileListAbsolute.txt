@@ -1,0 +1,8 @@
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Medium\01_FormattedDivision\01_FormattedDivision\bin\Debug\01_FormattedDivision.exe.config
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Medium\01_FormattedDivision\01_FormattedDivision\bin\Debug\01_FormattedDivision.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Medium\01_FormattedDivision\01_FormattedDivision\bin\Debug\01_FormattedDivision.pdb
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Medium\01_FormattedDivision\01_FormattedDivision\obj\Debug\01_FormattedDivision.csproj.AssemblyReference.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Medium\01_FormattedDivision\01_FormattedDivision\obj\Debug\01_FormattedDivision.csproj.SuggestedBindingRedirects.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Medium\01_FormattedDivision\01_FormattedDivision\obj\Debug\01_FormattedDivision.csproj.CoreCompileInputs.cache
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Medium\01_FormattedDivision\01_FormattedDivision\obj\Debug\01_FormattedDivision.exe
+D:\Çalışmalarım\Algoritmalar\CoderByte_Algoritmalari\Medium\01_FormattedDivision\01_FormattedDivision\obj\Debug\01_FormattedDivision.pdb
